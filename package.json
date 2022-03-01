@@ -1,6 +1,6 @@
 {
   "name": "gettr.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A complete API for Gettr.",
   "main": "index.js",
   "scripts": {
