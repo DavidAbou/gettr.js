@@ -1,5 +1,5 @@
 # Gettr JavaScript API
-
+ 
 <div>
   <p>
     <a href="https://www.npmjs.com/package/gettr.js"><img src="https://img.shields.io/npm/v/gettr.js.svg?maxAge=3600" alt="npm version" /></a>
