@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "nethris",
   "license": "ISC",
   "dependencies": {
     "superagent": "^7.1.1"
-  }
+  },
+  "keywords": [ "gettr" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidAbou/gettr.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidAbou/gettr.js.git"
+  },
+  "homepage": "https://github.com/DavidAbou/gettr.js.git"
 }
