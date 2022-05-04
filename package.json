@@ -1,6 +1,6 @@
 {
   "name": "gettr.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A complete API for Gettr.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "superagent": "^7.1.1"
   },
-  "keywords": [ "gettr" ],
+  "keywords": [
+    "gettr"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DavidAbou/gettr.js.git"
